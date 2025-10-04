@@ -7,8 +7,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#4A90E2',
-        secondary: '#357ABD',
+        cream: '#F7F5F3',
+        'cream-dark': '#E8E5E1',
+      },
+      fontFamily: {
+        serif: ['Georgia', 'serif'],
+        sans: ['-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
       },
     },
   },
